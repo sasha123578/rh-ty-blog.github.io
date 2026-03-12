@@ -13,6 +13,19 @@ On Monday morning, I came in and we all had to sign in for the day. We we all th
   - Overall, i had a good day and am excited for the rest of the week.
   - <img width="1400" height="933" alt="image" src="https://github.com/user-attachments/assets/1b7551c1-cda1-479d-8c8c-a890403eca5f" />
 
+  # Wednesday
+  We started off the day by doing the stand up with Nigel, I like doing the stand up because we get to speak about what we did and enjoyed from the day before.
+  - We got the opportunity to get a talk off James about the history of computing, when they first told us we're getting this talk I thought it would be boring but it turns out it was actually quite interesting and I learnt a lot of new things. Jmaes also made this talk fun by including quizzes into the talk.
+  - After James left, we started learning bash scripts and what they are. I didn't really understand the purpose of what it actually was but I ended up enjoying the treasure hunt anyway. Jordan and Filip done a really good job explaining how to move through the treasure hunt aswell.
+  - Then we got the opportunity to talk to all the interns about student life. I'm happy we got to do this because it made me feel less stressed about the future and a clearer picture of what I'd like to do. The alk was really good because they got to speak about their personal experiences on college and the leaving cert while we also got to ask questions.
+  - Then we all got our lunch from 1-2. The brek was nice because it was sunny out and wasn't too windy.
+  - After we all came back it was time to build rollercoasters out of these straws and clips. No one ended up making a successful rollercoaster that included a 360 loop but I think this wwas a fun activity that everyone had fun doing. I was in a group with Nichola and Michael, although we didnt make it work we hada good plan and I think if we had more time we wouldv'e been able to do it.
+
+  - Overall today was my favourite day because i enjoyed the workshops and we done a load of different thinhs today.
+  - <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/07eff817-a893-45c0-b418-e6b529477d0b" />
+
+
+
 
 
 
