@@ -21,8 +21,15 @@ On Monday morning, I came in and we all had to sign in for the day. We we all th
   - Then we all got our lunch from 1-2. The brek was nice because it was sunny out and wasn't too windy.
   - After we all came back it was time to build rollercoasters out of these straws and clips. No one ended up making a successful rollercoaster that included a 360 loop but I think this wwas a fun activity that everyone had fun doing. I was in a group with Nichola and Michael, although we didnt make it work we hada good plan and I think if we had more time we wouldv'e been able to do it.
 
-  - Overall today was my favourite day because i enjoyed the workshops and we done a load of different thinhs today.
+  - Overall today was my favourite day because I enjoyed the workshops and we done a load of different thinhs today.
   - <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/07eff817-a893-45c0-b418-e6b529477d0b" />
+
+  # Thursday
+  Thursday started off the same as we done the stand up to talk about what we thought of what we done yesterday.
+  -We began our day by getting free breakfast in the canteen. Red Hat has a free breakfast every Thursday morning for the employees, ths breakfast has various options that you could choose from. This was a nice way to start off the day.
+  -After breakfast we all gathered back into the Bolger Suite for our talk with Jmaes again. Today it was about AI and the many things you could do with it. We tried his website that can turn a document into things like a podcast, infographic or a brief.
+
+
 
 
 
