@@ -26,9 +26,15 @@ On Monday morning, I came in and we all had to sign in for the day. We we all th
 
   # Thursday
   Thursday started off the same as we done the stand up to talk about what we thought of what we done yesterday.
-  -We began our day by getting free breakfast in the canteen. Red Hat has a free breakfast every Thursday morning for the employees, ths breakfast has various options that you could choose from. This was a nice way to start off the day.
-  -After breakfast we all gathered back into the Bolger Suite for our talk with Jmaes again. Today it was about AI and the many things you could do with it. We tried his website that can turn a document into things like a podcast, infographic or a brief. I thouht this was really intersting because it shows how useful AI can be in certain areas.
-  -Then we got to use this website called 'Zooniverse' and we did the project where you click through photos and try identify what animal it is.
+  - We began our day by getting free breakfast in the canteen. Red Hat has a free breakfast every Thursday morning for the employees, ths breakfast has various options that you could choose from. This was a nice way to start off the day.
+  - After breakfast we all gathered back into the Bolger Suite for our talk with Jmaes again. Today it was about AI and the many things you could do with it. We tried his website that can turn a document into things like a podcast, infographic or a brief. I thouht this was really intersting because it shows how useful AI can be in certain areas.
+  
+  - Then we got to use this website called 'Zooniverse' and we did the project where you click through photos and try identify what animal it is.This was a relaxing hour for everyone and I was happy that Rosie had done this because it was a nice break inbetween our workshops.
+  After our lunch, we came back and were told we had to make sustainability projects. I was paired with Oisin and our topic was rain gardens. Our presentation went well and I'm happy the way it turned out.This activity helped improve everyone's public speaking aswell so it was beneficial for a lot of us.
+  - Overall today was really good and everything went well and was enjoyable.
+  <img width="1615" height="657" alt="image" src="https://github.com/user-attachments/assets/2cecb85b-2a9e-4d67-bd1d-5752cb44f249" />
+
+
 
 
 
