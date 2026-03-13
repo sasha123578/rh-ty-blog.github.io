@@ -34,6 +34,11 @@ On Monday morning, I came in and we all had to sign in for the day. We we all th
   - Overall today was really good and everything went well and was enjoyable.
   <img width="1615" height="657" alt="image" src="https://github.com/user-attachments/assets/2cecb85b-2a9e-4d67-bd1d-5752cb44f249" />
 
+  # Friday
+  Today is our last day and we started off as usual, by doing our stand up with Nigel
+  Overall I am really happy that I decided to do this because I ended up learning more than I thought and met a load of new people.
+
+
 
 
 
